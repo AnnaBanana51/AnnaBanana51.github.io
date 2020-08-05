@@ -94,7 +94,7 @@ a:hover {
   display: inline;
 }
 .social-media ul {
-  display: block;
+  display: inline;
   padding: 0.3rem;
   list-style-type: none;
 }
